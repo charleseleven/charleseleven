@@ -27,6 +27,7 @@
   <img align="center" alt="Charles-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Charles-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Charles-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg">
+  <img align="center" alt="Charles-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Charles-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
   <img align="center" alt="Charles-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Charles-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
