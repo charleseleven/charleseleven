@@ -25,8 +25,6 @@
   <img align="center" alt="Charles-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="Charles-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Charles-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Charles-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nuxt/nuxt-plain.svg">
-  <img align="center" alt="Charles-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-plain.svg">
   <img align="center" alt="Charles-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Charles-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Charles-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
