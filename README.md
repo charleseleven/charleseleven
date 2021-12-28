@@ -1,10 +1,10 @@
-### 🤖🖐🎉 Olá pessoal!! Eu sou o Charles Pires Rodrigues 🎉🖐🤖
+### 🤖🖐🎉 Charles Pires Rodrigues 🎉🖐🤖
 
 ##
 
-- 🖥️ Eu trabalho com desenvolvimento front-end 
+- 🖥️ Eu trabalho com desenvolvimento full-stack
 - 🎯 Especializando-me em Vue.js 
-- 🤓 Estudando C# / .NET
+- 🤓 Estudando C#/SQLServer e Azure
 
 ##
 <br>
