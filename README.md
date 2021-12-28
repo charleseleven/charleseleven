@@ -4,7 +4,7 @@
 
 - 🖥️ Eu trabalho com desenvolvimento full-stack
 - 🎯 Especializando-me em Vue.js 
-- 🤓 Estudando C#/SQLServer e Azure
+- 🤓 Estudando C# - SQLServer - Azure
 
 ##
 <br>
