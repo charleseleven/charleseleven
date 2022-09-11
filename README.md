@@ -2,9 +2,10 @@
 
 ##
 
-- 🖥️ Eu trabalho com desenvolvimento full-stack
-- 🎯 Especializando-me em Vue.js 
-- 🤓 Estudando C# - SQLServer - Azure
+- 🤓 I'm a fullstack developer
+- 🖼️ Front-end with JavaScript | Vue | Nuxt
+- 🔐 Back-end with C#
+- 💾 Database with SQLServer
 
 ##
 <br>
