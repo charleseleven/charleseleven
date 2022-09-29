@@ -5,7 +5,7 @@
 - 🤓 I'm a fullstack developer
 - 🖼️ Front-end with JavaScript | Vue | Nuxt
 - 🔐 Back-end with C#
-- 💾 Database with SQLServer
+- 💾 Database with SQL Server
 
 ##
 <br>
