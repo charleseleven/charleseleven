@@ -39,7 +39,7 @@
   <br>
   
   <div>
-    <a href="https://www.linkedin.com/in/charles-pires-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" trget="_blank"></a>
+    <a href="https://www.linkedin.com/in/charles-pires-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:cpiresrodrigues81@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
     <a href="https://discord.gg/CharlesEleven#5505" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
     <a href="https://join.skype.com/invite/r20FY71fx9te" target="_blank"><img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" target="_blank"/></a>    
